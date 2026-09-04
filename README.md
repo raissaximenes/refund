@@ -1,6 +1,6 @@
-<h1 align= "center> Refund </h1>
+<h1 align="center">Refund</h1>
 <div align="center">
-  <img src="assets/imagereadme.png">
+  <img src="img/imagereadme.png" alt="Refund">
 </div>
 
 ## Sobre o projeto 
